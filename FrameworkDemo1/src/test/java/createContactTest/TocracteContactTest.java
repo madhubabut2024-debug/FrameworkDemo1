@@ -3,8 +3,7 @@ package createContactTest;
 public class TocracteContactTest {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+System.out.println("created contact by mounika");
 	}
 
 }
